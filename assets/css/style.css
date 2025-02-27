@@ -56,3 +56,15 @@ form button {
 form button:hover {
   background: var(--primary-color-darker);
 }
+
+.watch {
+  font-size: 3em;
+
+
+}
+
+.paused {
+  color: red;
+
+
+}
