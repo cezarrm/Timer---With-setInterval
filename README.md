@@ -1,4 +1,4 @@
-<h1> </h1>
+<h1>My Timer </h1>
 
 <p> I've made this timer using functions, setInterval, new Date, and some event listeners.</p>
 
